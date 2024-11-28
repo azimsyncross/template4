@@ -80,6 +80,23 @@ export const siteConfig = {
           { name: "Marketing", url: "#" },
           { name: "Graphic Design", url: "#" }
         ]
+      },
+      {
+        title: "Our Services",
+        items: [
+          { name: "Web Design", url: "#" },
+          { name: "Web Development", url: "#" },
+          { name: "Product Management", url: "#" },
+          { name: "Marketing", url: "#" },
+          { name: "Graphic Design", url: "#" }
+        ]
+      },
+      {
+        title: "Our Services",
+        items: [
+          { name: "Web Design", url: "#" },
+          { name: "Web Development", url: "#" },
+        ]
       }
     ],
     copyright: {
